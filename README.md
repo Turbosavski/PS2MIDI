@@ -10,6 +10,6 @@ The heart of the system is (of course) arduino. Arduino Promicro can be set as n
 
 After the touchpad version an old ps/2 computer keyboard was used to some extent with adaptations to the relevant arduino library. Another option is of course the mouse - this would be probably very similar to touchpad. All these arduino sketches will be soon available here. 
 
-Quite some work was done in 2019 with adding the AI part on the level of three arduino libraries: midimelodics, midirhythmics and midistatistics - not yet finished but soon to be uploaded.
+Quite some work was done in 2019 with adding the AI part on the level of three arduino libraries: midimelodics, midirhythmics and midistatistics - not yet finished but soon to be uploaded. Similar work is lately been done as a flute-like breath controller - but without the midi-synth.
 
 Available here - in case the virus gets me...
