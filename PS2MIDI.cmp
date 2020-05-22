@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 10/21/2019 10:59:22 AM
+
+BeginCmp
+TimeStamp = /5D557A39;
+Reference = BT1;
+ValeurCmp = Batt_9V;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5D6834;
+Reference = C1;
+ValeurCmp = 47u;
+IdModule  = Capacitors_ThroughHole:CP_Radial_D6.3mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D663C31;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_1210_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D555DDF;
+Reference = J1;
+ValeurCmp = AUDIO_OUT;
+IdModule  = w_conn_av:jack_3.5_sj1-3513-smt;
+EndCmp
+
+BeginCmp
+TimeStamp = /578C94D0;
+Reference = J4;
+ValeurCmp = ARDUINO_PRO_MICRO_SHIELD;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x12_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5D3B8D;
+Reference = P1;
+ValeurCmp = MIDI_OUT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5DADBAC8;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5BF426;
+Reference = P3;
+ValeurCmp = CONN_01X09;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x09_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D554C48;
+Reference = P4;
+ValeurCmp = CONN_02X13;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x13_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5FC53C;
+Reference = P5;
+ValeurCmp = MIDI_IN;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D6111BD;
+Reference = P6;
+ValeurCmp = GND;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D610E8B;
+Reference = P7;
+ValeurCmp = GND;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5FB146;
+Reference = PS2;
+ValeurCmp = PS/2_touchpad;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A796101;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A796184;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5C8E89DE;
+Reference = R4;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5C8E8A5E;
+Reference = R5;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5516CA;
+Reference = R6;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D551692;
+Reference = R7;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D551648;
+Reference = R8;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5515E2;
+Reference = R9;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D552D50;
+Reference = R10;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D55CE6B;
+Reference = R11;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5D484B;
+Reference = R14;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5DADB37D;
+Reference = R15;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5D641F;
+Reference = R16;
+ValeurCmp = 12;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D5D7D61;
+Reference = R17;
+ValeurCmp = 0;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D663FF3;
+Reference = R18;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D55948A;
+Reference = SW2;
+ValeurCmp = ON_OFF;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A784AA8;
+Reference = U1;
+ValeurCmp = 24C256;
+IdModule  = Housings_DIP:DIP-8_W7.62mm_Socket;
+EndCmp
+
+EndListe

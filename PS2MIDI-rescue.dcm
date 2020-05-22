@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ARDUINO_PRO_MICRO_SHIELD
+D Sparkfun Promicro
+K arduino atmel
+$ENDCMP
+#
+#End Doc Library
