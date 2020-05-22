@@ -4,7 +4,7 @@ PS/2 protocol and devices as midi interfaces: computer keyboard, mouse, touchpad
 
 KiCad 5.1.5 files are provided for the small pcb board. For now existing / tested as a single sided prototypes for touchpad and computer keyboard. 
 
-Previouly known as AI_SI Touchpad Piano - it is a midi trigger device based on a touchpad system found in any laptop computer – brought to a form of an oversimplified instrument that acts as (ahm...) piano. This module (-> https://www.serdashop.com/waveblaster) replaces the first version with Yamaha XG Midi daughter board (the 90s). My basic interest was just piano sounds.
+Previouly known as AI_SI Touchpad Piano (-> http://www.ljudmila.org/~savskib/?p=979). It is a midi trigger device based on a touchpad system found in any laptop computer – brought to a form of an oversimplified instrument that acts as (ahm...) piano. This module (-> https://www.serdashop.com/waveblaster) replaces the first version with Yamaha XG Midi daughter board (the 90s). My basic interest was just piano sounds.
 
 The heart of the system is (of course) arduino. Arduino Promicro can be set as native usb device – so it was chosen (Sparkfun Pro micro 5V 16MHz version – a Chinese clone). An old laptop (sony vaio) provided a touchpad and parts to make the instrument housing. 
 
