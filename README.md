@@ -8,7 +8,11 @@ Previouly known as AI_SI Touchpad Piano (-> http://www.ljudmila.org/~savskib/?p=
 
 The heart of the system is (of course) arduino. Arduino Promicro can be set as native usb device – so it was chosen (Sparkfun Pro micro 5V 16MHz version – a Chinese clone). An old laptop (sony vaio) provided a touchpad and parts to make the instrument housing. 
 
-After the touchpad version an old ps/2 computer keyboard was used to some extent with adaptations to the relevant arduino library. Another option is of course the mouse - this would be probably very similar to touchpad. All these arduino sketches will be soon available here. 
+After the touchpad version an old ps/2 computer keyboard was used to some extent with adaptations to the relevant arduino library. Another option is of course the mouse - this would be probably very similar to touchpad. 
+
+All these arduino sketches are now available here in their latest development versions:
+-> keyboardProMicro04
+-> touchPadProMicro14
 
 Quite some work was done in 2019 with adding the AI part on the level of three arduino libraries: midimelodics, midirhythmics and midistatistics - not yet finished but soon to be uploaded. Similar work is lately been done as a flute-like breath controller - but without the midi-synth.
 
